@@ -3,7 +3,16 @@
     "description": "Generate Random Quote with php",
     "type": "library",
     "license": "MIT",
+    "author": {
+        "name": "k_tith",
+        "email": "Titkhem167@gmail.com",
+    },
     "require": {
         
+    },
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes":"src/"
+        }
     }
 }
