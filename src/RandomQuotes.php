@@ -1,5 +1,6 @@
 <?php
 
+namespace RandomQuotes;
 class RandomQuotes {
 
     public function generate(){
