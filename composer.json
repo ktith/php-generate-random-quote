@@ -1,0 +1,9 @@
+{
+    "name": "k_tith/php-generate-random-quote",
+    "description": "Generate Random Quote with php",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        
+    }
+}
