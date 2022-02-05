@@ -1,11 +1,11 @@
-# PHP Generate Random Quote
+# PHP Generate Random KHMER Quote
 
 ## Installation
 
 ### Library
 
 ```bash
-git clone https://github.com/justinrainbow/json-schema.git
+git clone https://github.com/ktith/php-generate-random-quote.git
 ```
 
 ### Composer
@@ -13,7 +13,7 @@ git clone https://github.com/justinrainbow/json-schema.git
 [Install PHP Composer](https://getcomposer.org/doc/00-intro.md)
 
 ```bash
-composer require justinrainbow/json-schema
+composer require k_tith/php-generate-random-quote
 ```
 
 ## Usage
