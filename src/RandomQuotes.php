@@ -9,7 +9,7 @@ class RandomQuotes {
         // Convert JSON document to PHP array.
         $quotes = json_decode( $quotes, true );
         // Get a random index number.
-        $index = mt_rand( 0, count( $quotes ) );
+        $index = mt_rand( 0, count( $quotes )-1 );
         // Return the random quote.
         return $quotes[ $index ];
     }
